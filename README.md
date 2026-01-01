@@ -25,4 +25,6 @@
           table tennis
       
   ## about myself
-    hello everyone, thx for reaching to this repo. i'm pranav a guy 19 yrs old, currently pursueing b-tech in 'civil & infrastructure engineering' 4th sem. Due to a strong interest in similar things, i wanna start gettings hands on like an actual software engineer.
+    hello everyone, thx for reaching to this repo. 
+    I'm pranav a guy 19 yrs old, currently pursueing b-tech in 'civil & infrastructure engineering' 4th sem. 
+    Due to a strong interest in similar things, i wanna start gettings hands on like an actual software engineer.
